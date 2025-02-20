@@ -2,3 +2,6 @@ My name is Carlos Gabriel, I am 21 years old, and I have a degree in Systems Ana
 I am currently studying the Full Stack JavaScript course at OneBitCode.
 I enjoy developing new solutions and innovative ideas, and one of my hobbies, which I hope to pursue in the future, is game development. 🙂
 
+![YesCrusaderGIF (2)](https://github.com/user-attachments/assets/b2f3e72d-be58-4b83-9641-6be5527f1506)
+
+
